@@ -4,3 +4,6 @@ const ul = document.getElementById("ul");
 
 console.log(btn);
 
+function todo(newTodo) {
+    
+};
